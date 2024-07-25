@@ -4,8 +4,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -13,22 +11,19 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Portfolio Project: Desktop version<a name="about-project"></a>
-
-This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile responsive portfolio landing page.
-
-**[Desktop Portfolio Project]** is an HTML and CSS project
+# 📖 PROGRAM-STUDENT-AVERAGE-AND-RANKING t: Desktop version<a name="about-project"></a>
+this project allows a school to rank and calvulate the avg and possition of studnets
+**[Desktop PROGRAM-STUDENT-AVERAGE-AND-RANKING ]** is a C program
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- HTML
-- CSS
+- C language 
 
 ### Key Features <a name="key-features"></a>
-- **A desktop responsive page with a minimum width of 375px**
-- **Well designed figma template transformed to a real webpage through codes**
+- **A desktop app used to calculate avearge and maintain position ranking of studentsx**
+- **well structured code simple and understanding**
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -39,59 +34,42 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - Visual Studio Code
-- Web browser such as chrome
+- code block
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```sh
-  cd Ngala-Portfolio
-  git clone https://github.com/ngalamac/Portfolio-Ngala.git
+  cd 
+  git clone https://github.com/ElondoPrinceDarlins/PROGRAM-STUDENT-AVERAGE-AND-RANKING.git
 ```
 
-### Install
+### IPROGRAM-STUDENT-AVERAGE-AND-RANKING nstall
 
 Install this project with:
 
 ```sh
-  cd Portfolio-Ngala
+  cd PROGRAM-STUDENT-AVERAGE-AND-RANKING 
   npm install
 ```
 
 ### Usage
 
-To run the project, start the html file on live server or run normally from local directory
+To run the project, run it on an IDE like code blocks and others
 
-### Run tests
-
-To run tests, run the following command:
-```sh
-  npx hint .
-  npx stylelint "**/*.{css,scss}"
-```
-
-### Deployment
-
-You can deploy this project using:
-
-```sh
-  gh-pages
-  netlify
-  vercel
-```
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ngala Mac**
+👤 **Darlins prince**
 
-- GitHub: [ngalamac](https://github.com/ngalamac)
-- LinkedIn: [Ngala Mac](https://www.linkedin.com/in/ngala-mac-872a65220/)
+- GitHub: [darlins prince](https://github.com/ElondoPrinceDarlins)
+- LinkedIn: [darlins prince](https://www.linkedin.com/in/elondo-prince-darlins-b-451469313/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- A desktop responsive portfolio website
-- More pages added displaying my various projects
+- A desktop application for marks and position
+- More added showing my projects
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -104,7 +82,7 @@ If you like this project you can go ahead give a star to the repository.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I give thanks to Microverse community for investing in me. I am looking forth to building more projects
+I give thanks to etsntech community for investing in me. I am looking forth to building more projects
 
 ## 📝 License <a name="license"></a>
 
