@@ -11,18 +11,18 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 PROGRAM-STUDENT-AVERAGE-AND-RANKING t: Desktop version<a name="about-project"></a>
-this project allows a school to rank and calvulate the avg and possition of studnets
+# 📖 HND OOP 2021 : Desktop version<a name="about-project"></a>
+this proJECT IS A SOLUTION TO HND 2021 Q8
 **[Desktop PROGRAM-STUDENT-AVERAGE-AND-RANKING ]** is a C program
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- C language 
+- C++ language 
 
 ### Key Features <a name="key-features"></a>
-- **A desktop app used to calculate avearge and maintain position ranking of studentsx**
+- **A desktop app used to demonstrate the functionallity of c++ranking of studentsx**
 - **well structured code simple and understanding**
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -42,7 +42,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd 
-  git clone https://github.com/ElondoPrinceDarlins/PROGRAM-STUDENT-AVERAGE-AND-RANKING.git
+  git clone https:https://github.com/ElondoPrinceDarlins/HND2021oop.git
 ```
 
 ### IPROGRAM-STUDENT-AVERAGE-AND-RANKING nstall
@@ -50,7 +50,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd PROGRAM-STUDENT-AVERAGE-AND-RANKING 
+  cd https://github.com/ElondoPrinceDarlins/HND2021oop
   npm install
 ```
 
@@ -63,12 +63,12 @@ To run the project, run it on an IDE like code blocks and others
 
 👤 **Darlins prince**
 
-- GitHub: [darlins prince](https://github.com/ElondoPrinceDarlins)
+- GitHub: [darlins prince](https://github.com/ElondoPrinceDarlins/HND2021oop)
 - LinkedIn: [darlins prince](https://www.linkedin.com/in/elondo-prince-darlins-b-451469313/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- A desktop application for marks and position
+- a c++ program displaying its functionalities
 - More added showing my projects
 
 ## 🤝 Contributing <a name="contributing"></a>
